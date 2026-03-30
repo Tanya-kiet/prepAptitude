@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For premium page transitions, smooth card hovers, and micro-interactions"
+  "recharts": "To display beautiful progress analytics and performance charts"
+  "clsx": "Utility for conditionally joining classNames"
+  "tailwind-merge": "Utility for merging tailwind classes without conflicts"
+  "canvas-confetti": "To show celebration confetti on excellent quiz results"
+
+images:
+  - path: "artifacts/prep-aptitude/public/images/hero-bg.png"
+    description: "Abstract dark navy and electric blue gradient mesh with subtle geometric wireframes, giving a high-tech modern educational platform feel."
+    aspect_ratio: "16:9"
+
+notes:
+  - Entire app runs locally with mock data and localStorage as requested.
+  - Used Framer Motion for premium feel.
